@@ -34,6 +34,8 @@ bike-rental-shop/
 ├── bike-shop.sh
 ├── bike_shop.sql
 └── README.md
+```
+---
 
 ##👨‍💻 Author
 
