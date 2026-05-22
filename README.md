@@ -37,6 +37,6 @@ bike-rental-shop/
 ```
 ---
 
-##👨‍💻 Author
+## 👨‍💻 Author
 
 Developed by Nagnath Edake
